@@ -87,6 +87,7 @@ public class Shipment {
 
 	static class ShipmentLocation {
 		String firstName;
+		//this is committed
 		String lastName;
 		String streetAddress;
 		int Pincode;
